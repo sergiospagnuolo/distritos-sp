@@ -1,4 +1,4 @@
-# Distritos policiais da cidade de São Paulo
+# Distritos policiais de São Paulo
 
  shapefiles oficiais da Secretaria de Segurança Pública/SP (polígonos dos distritos policiais)
  
